@@ -22,7 +22,7 @@ function insertLeftMenu(){
 							<li><a href="${url}/links.html">Ссылки</a></li>
 							<li><a href="${url}/mining.html">Отчет о поиске</a></li>
 							<li><a href="${url}/own.html">Индивидуальный раздел</a></li>
-							<li><a href="">ЭУМК</a></li>
+							<li><a href="${url}/eumk.html">ЭУМК</a></li>
 						</ul>
 					</div>
 				</div>
